@@ -41,6 +41,7 @@ from gs_quant.timeseries import (
     annualized_volatility,
     beta,
     change,
+    conditional_value_at_risk,
     correlation,
     cumulative_returns,
     downside_capture,
@@ -55,7 +56,6 @@ from gs_quant.timeseries import (
     tracking_error_of,
     upside_capture,
     value_at_risk,
-    conditional_value_at_risk,
     volatility,
     win_rate,
 )
